@@ -27,3 +27,18 @@ Aplicativo mobile desenvolvido em React Native (Expo) que realiza captura de loc
 ## 📡 Integração com Backend
 
 O app se conecta ao backend em:
+
+
+### Rotas usadas:
+
+- POST `/location` → envia latitude e longitude  
+- GET `/locations` → busca histórico
+
+---
+
+## ▶️ Como rodar o projeto
+
+Instalar dependências:
+
+```bash id="c1"
+npm install
